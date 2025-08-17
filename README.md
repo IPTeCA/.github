@@ -1,0 +1,2 @@
+# .github
+研究室全体で共通利用するGitHubテンプレートと運用ルールをまとめたリポジトリです。 Pull RequestテンプレートやContributingガイドラインなどを管理しています。
